@@ -18,7 +18,7 @@ class contain a compiler error?
 
 A. One.
 B. Two.
-C. four.
+C. Three.
 D. Four.
 E. Five.
 F. Six.
